@@ -1,2 +1,2 @@
 # dobby
-Tensorflow wrapper for faster development.
+A data science elf for faster development.
